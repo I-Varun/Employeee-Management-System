@@ -1,0 +1,4 @@
+D,D2,CSE,Calcutta
+D,D3,IT,Calcutta
+D,D3,ECE,Calcutta
+P,P1,AI,CSE,L1
